@@ -12,3 +12,7 @@ Produzione di dashboard interattive
 
 Storytelling e analisi operativa
 Il file PBIX contiene misure, colonne calcolate e un modello dati strutturato secondo best practice.
+
+---
+👤 **Autore:** Francesco Ciannamea  
+📬 LinkedIn: https://www.linkedin.com/in/ciannameafrancesco/
