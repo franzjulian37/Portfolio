@@ -28,6 +28,6 @@ jobs:
       - name: Run project
         run: |
           cd $GITHUB_WORKSPACE
-          python load_prices.py
-          python compute_metrics.py
-          python plot_results.py
+          python scripts/load_prices.py
+          python scripts/compute_metrics.py
+          python scripts/plot_results.py
